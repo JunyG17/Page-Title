@@ -1,0 +1,39 @@
+.title{
+    display:flex;
+    justify-content:center;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs5pXhaHnpnDlY2bLFvDbwtg_XMJUsnd7on1KOx3U5PIuAtIdy);
+    color:white;
+}
+.middle{
+    text-align:center;
+   background-color:lightblue;
+   
+    }
+button{
+    height:20px;
+    margin:30px;
+   border:solid black;
+}
+p{
+    font-size:12px;
+  
+   }
+   .container{
+       display:flex;
+       justify-content: space-around;
+       background-color:lightblue;
+       padding:10px;
+   }
+  .img{
+      height:150px;
+      width:150px;
+      
+  }
+.edu{
+    width:150px;
+    height:150px;
+    }
+    .jun{
+        height:150px;
+        width:150px;
+    }
